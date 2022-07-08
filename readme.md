@@ -1,6 +1,6 @@
 # Omnifood Site
 
-a final project of the udemy course: "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann.
+A final project of the udemy course: "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann.
 link to the course: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
 
 `section hero` `header` `nav`:
