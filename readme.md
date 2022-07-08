@@ -4,7 +4,7 @@ a final project of the udemy course: "Build Responsive Real-World Websites with 
 link to the course: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
 
 `section hero` `header` `nav`:
-![image](https://user-images.githubusercontent.com/76474133/178052919-0de3a6e3-07d0-4751-ab01-daa375ef6161.png)
+![image](https://user-images.githubusercontent.com/76474133/178054277-3ef6810b-7f34-420b-8a68-573dfe270c4d.png)
 
 
 `section featured`:
