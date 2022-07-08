@@ -1,7 +1,8 @@
 # Omnifood Site
 
 A final project of the udemy course: "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann.
-link to the course: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
+link to the course: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/<br/>
+<sub>Also in this project, I used only git commands in the terminal and for each section, I created a feature branch.</sub>
 
 `section hero` `header` `nav`:
 ![image](https://user-images.githubusercontent.com/76474133/178054277-3ef6810b-7f34-420b-8a68-573dfe270c4d.png)
