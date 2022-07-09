@@ -207,7 +207,7 @@
 }
 
 /* ******************************** */
-/* BELOW 544px (Smaller tablets) */
+/* BELOW 544px (Smartphones) */
 /* ******************************** */
 @media (max-width: 34em) {
   .grid {
