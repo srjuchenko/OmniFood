@@ -2,6 +2,13 @@
 
 A final project of the udemy course: "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann. <br/>
 Link to the course: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/<br/>
+
+Stack:
+- Pure CSS & HTML, from scratch.
+- No external libraries needed (i.e: Bootstrap, etc...)
+- Instead, I've used Flexbox, Grid, for learning purposes. 
+- Media queries.
+
 <sub>In this project, For the first time, I tried to use only git commands in the terminal.</sub>
 
 `section hero` `header` `nav`:
