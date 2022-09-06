@@ -2,7 +2,7 @@
 
 Link : https://omni-sr.netlify.app
 
-A final project (learning project) of the udemy course: "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann. <br/>
+A guided project (learning project) of the udemy course: "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann. <br/>
 Link to the course: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/<br/>
 
 Stack:
